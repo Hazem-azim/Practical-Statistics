@@ -1,7 +1,9 @@
+.gitignore
 .ipynb_checkpoints
 *.bat
 *.pdf
 *.html
+1) Inference - Confidence Interval/
 2) Inference - Hypothesis Testing/
 3) AB Testing/
 4) Linear Regression - Interpreting Results and Model Performance/
